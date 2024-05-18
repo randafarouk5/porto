@@ -1,0 +1,18 @@
+C:\Users\farou\source\repos\project team\project team\obj\Release\project team.csproj.AssemblyReference.cache
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.booking_form.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.booking.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.client_form.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.Form1.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.Form2.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.information.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.Mirage.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.Properties.Resources.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.Tulip.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project_team.Venicia.resources
+C:\Users\farou\source\repos\project team\project team\obj\Release\project team.csproj.GenerateResource.cache
+C:\Users\farou\source\repos\project team\project team\obj\Release\project team.csproj.CoreCompileInputs.cache
+C:\Users\farou\source\repos\project team\project team.exe.config
+C:\Users\farou\source\repos\project team\project team\obj\Release\project team.exe
+C:\Users\farou\source\repos\project team\project team\obj\Release\project team.pdb
+C:\Users\farou\source\repos\project team\project team.exe
+C:\Users\farou\source\repos\project team\project team.pdb
